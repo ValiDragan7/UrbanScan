@@ -4,7 +4,7 @@ UrbanScan is an application dedicated to improving urban infrastructure and the 
 
 ## Features
 
-### For both pothole and waste detection
+### For both potholes and waste detection
 - **Detection on Images**
 - **Detection on Videos**
 
