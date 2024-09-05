@@ -28,6 +28,13 @@ Clone the repository:
 ```bash
 git clone https://github.com/ValiDragan7/UrbanScan.git
 ```
+## Install the models:
+The models are too large to be added to github.
+Install the .rar file from the link below and extract it in the "UrbanScan" folder
+```
+https://drive.google.com/drive/folders/14JhGs4lDD_eUWh9sEuxgj1kAGCz2N4ng?usp=sharing
+```
+
 ## Install dependencies:
 
 ```bash
