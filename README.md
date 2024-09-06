@@ -1,6 +1,6 @@
 # UrbanScan
 
-UrbanScan is an application dedicated to improving urban infrastructure and the environment through advanced visualization technology and artificial intelligence like Vision Transformers. The project integrates two essential functionalities for modern cities:
+UrbanScan is an application for windows dedicated to improving urban infrastructure and the environment through advanced visualization technology and artificial intelligence like Vision Transformers. The project integrates two essential functionalities for modern cities:
 
 ## Features
 
